@@ -1,0 +1,14 @@
+.one{
+    color: rgb(255, 255, 255);
+    background-color: cadetblue;
+    padding: 12px;
+    width: 20px;
+    border-radius: 50%;
+}
+.two{
+    color: rgb(235, 212, 217);
+    background-color: crimson;
+    padding: 12px;
+    border-radius: 50%;
+    width: 20px;
+}
